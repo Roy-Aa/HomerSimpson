@@ -1,2 +1,3 @@
-# HomerSimpson
-Homer Simpson Project CSS Art
+# Homer Simpson Project 🎨
+
+![Homersimpson](Homersimpsonpicture.png)
